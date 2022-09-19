@@ -10,7 +10,7 @@ tags:
 # Vite + Svelte + Typescript Example
 This example utilises vite for static site generation
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/HPidrR?referralCode=OH27A5)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app?referralCode=Yh2rJK)
 
 ## ✨ Features
 
@@ -20,9 +20,8 @@ This example utilises vite for static site generation
 
 ## 💁‍♀️ How to use
 
-- Install dependencies `yarn`
-- Connect to your Railway project `railway link`
-- Start the development server `railway run yarn dev`
+- Install dependencies `npm install`
+- Start the development server `npm run dev`
 
 ## 📝 Notes
 
