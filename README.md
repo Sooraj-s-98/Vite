@@ -10,7 +10,7 @@ tags:
 # Vite + Svelte + Typescript Example
 This example utilises vite for static site generation
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app?referralCode=Yh2rJK)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/HPidrR?referralCode=Yh2rJK)
 
 ## ✨ Features
 
